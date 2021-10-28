@@ -1,7 +1,8 @@
 autopep8==1.5.6
 catboost==1.0.0
 decorator==4.4.0
-fastapi==0.70.0
+python==3.8
+Fastapi==0.70.0
 Flask==1.1.2
 h11==0.12.0
 nltk==3.6.2
